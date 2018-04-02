@@ -1,0 +1,11 @@
+C:\Users\dimav\OneDrive\документы\visual studio 2017\Projects\DzokFile\DzokFile\bin\Debug\DzokFile.exe.config
+C:\Users\dimav\OneDrive\документы\visual studio 2017\Projects\DzokFile\DzokFile\bin\Debug\DzokFile.exe
+C:\Users\dimav\OneDrive\документы\visual studio 2017\Projects\DzokFile\DzokFile\bin\Debug\DzokFile.pdb
+C:\Users\dimav\OneDrive\документы\visual studio 2017\Projects\DzokFile\DzokFile\bin\Debug\DotNetZip.dll
+C:\Users\dimav\OneDrive\документы\visual studio 2017\Projects\DzokFile\DzokFile\bin\Debug\DotNetZip.xml
+C:\Users\dimav\OneDrive\документы\visual studio 2017\Projects\DzokFile\DzokFile\obj\Debug\DzokFile.csprojResolveAssemblyReference.cache
+C:\Users\dimav\OneDrive\документы\visual studio 2017\Projects\DzokFile\DzokFile\obj\Debug\DzokFile.Form1.resources
+C:\Users\dimav\OneDrive\документы\visual studio 2017\Projects\DzokFile\DzokFile\obj\Debug\DzokFile.Properties.Resources.resources
+C:\Users\dimav\OneDrive\документы\visual studio 2017\Projects\DzokFile\DzokFile\obj\Debug\DzokFile.csproj.GenerateResource.Cache
+C:\Users\dimav\OneDrive\документы\visual studio 2017\Projects\DzokFile\DzokFile\obj\Debug\DzokFile.exe
+C:\Users\dimav\OneDrive\документы\visual studio 2017\Projects\DzokFile\DzokFile\obj\Debug\DzokFile.pdb
